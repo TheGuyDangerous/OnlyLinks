@@ -273,7 +273,7 @@ export default function UserSocials({ userDataName }) {
             Please double-check the username <br /> and try again.
           </p>
           <Button
-            href="https://mysocialz.vercel.app/"
+            href="https://only-links.vercel.app/"
             className="mt-5 w-full max-w-sm mx-auto"
           >
             Back
